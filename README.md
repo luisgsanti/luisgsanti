@@ -74,9 +74,17 @@
 Web developer with a passion for creating innovative and creative solutions to solve complex problems. With advanced skills in web application development, front-end and back-end frameworks and tools, capable of effectively collaborating in multidisciplinary teams and maintaining high standards of quality in code. Focused on timely delivery of projects and meeting client objectives.
 </p>
 
-<h1><strong>Profile</strong></h1>
+<h1><strong>Skills</strong></h1>
 <p>
-Web developer with a passion for creating innovative and creative solutions to solve complex problems. With advanced skills in web application development, front-end and back-end frameworks and tools, capable of effectively collaborating in multidisciplinary teams and maintaining high standards of quality in code. Focused on timely delivery of projects and meeting client objectives.
+  <li>Knowledge in different programming languages.</li>
+
+Analytical ability to efficiently solve complex problems.
+Experience in using version control tools and workflow in development teams.
+High adaptability to work with different technologies and quickly learn new skills.
+Ability to document and effectively communicate technical requirements and specifications.
+Communication and conflict resolution skills to interact effectively with clients and end-users.
+Excellent ability in system analysis and design.
+Responsible for meeting project deadlines and objectives with high standards of code quality and effective communication with the team and project stakeholders.
 </p>
 
 
