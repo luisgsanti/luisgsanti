@@ -24,8 +24,6 @@
       <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"><br>
       Css
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"><br>
       TypeScript
@@ -38,12 +36,12 @@
       <img width="50" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"><br>
       C#
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"><br>
       C++
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"><br>
       Dart
@@ -60,8 +58,6 @@
       <img width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"><br>
       Git 
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="50" src="https://geeks.ms/jorge/wp-content/uploads/sites/6/2007/05/20210927_01.png"><br>
       Scrum
