@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">DEVELOPMENT TECHNOLOGIES</p>
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 1"><br>
