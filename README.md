@@ -96,7 +96,14 @@ Web developer with a passion for creating innovative and creative solutions to s
   <strong>Universidad Popular del Cesar</strong><br>
   Systems Engineer<br>
   Studying tenth semester
+  <li>Page of the "Universidad Popular del Cesar en Ingenieria de sistemas": http://sistemas.unicesar.edu.co/ </li>
+  <li>Graduate profile: http://sistemas.unicesar.edu.co/index.php/sobre-el-programa/perfiles-de-formacion/perfil-de-egreso </li>
 </p>
+
+<p align="center">
+  <img width="200" src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
+</p>
+
 
 
 
