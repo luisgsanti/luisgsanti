@@ -76,15 +76,16 @@ Web developer with a passion for creating innovative and creative solutions to s
 
 <h1><strong>Skills</strong></h1>
 <p>
-  <li>Knowledge in different programming languages.</li>
-
-Analytical ability to efficiently solve complex problems.
-Experience in using version control tools and workflow in development teams.
-High adaptability to work with different technologies and quickly learn new skills.
-Ability to document and effectively communicate technical requirements and specifications.
-Communication and conflict resolution skills to interact effectively with clients and end-users.
-Excellent ability in system analysis and design.
-Responsible for meeting project deadlines and objectives with high standards of code quality and effective communication with the team and project stakeholders.
+  <ul>
+    <li>Knowledge in different programming languages.</li>
+    <li>Analytical ability to efficiently solve complex problems.</li>
+    <li>Experience in using version control tools and workflow in development teams.</li>
+    <li>High adaptability to work with different technologies and quickly learn new skills.</li>
+    <li>Ability to document and effectively communicate technical requirements and specifications.</li>
+    <li>Communication and conflict resolution skills to interact effectively with clients and end-users.</li>
+    <li>Excellent ability in system analysis and design.</li>
+    <li>Responsible for meeting project deadlines and objectives with high standards of code quality and effective communication with the team and project                  stakeholders.</li>
+  </ul>
 </p>
 
 
