@@ -1,1 +1,1 @@
-![PromoGitHub](https://user-images.githubusercontent.com/57334196/229369794-881fdba4-39af-4149-916a-c40ef8c4f3dc.gif)
+![BanerPresentacionGitHub](https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif)
