@@ -9,8 +9,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 1"><br>
-      Nombre de la imagen 1
+      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"><br>
+      Angular
     </td>
     <td align="center">
       <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 2"><br>
