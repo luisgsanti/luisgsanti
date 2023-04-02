@@ -91,8 +91,12 @@ Web developer with a passion for creating innovative and creative solutions to s
 
 
 
-<h1><strong>  </strong></h1>
-<p> </p>
+<h1><strong>Education</strong></h1>
+<p>
+  <strong>Universidad Popular del Cesar</strong><br>
+  Systems Engineer<br>
+  Studying tenth semester
+</p>
 
 
 
