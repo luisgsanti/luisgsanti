@@ -49,7 +49,7 @@
       Dart
     </td>
     <td align="center">
-      <img width="50" src="https://pixlok.com/wp-content/uploads/2021/05/flutter-logo.jpg"><br>
+      <img width="50" src="https://logowik.com/content/uploads/images/flutter5786.jpg"><br>
       Flutter
     </td>
     <td align="center">
