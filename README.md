@@ -2,7 +2,7 @@
 <p align="center">Systems Engineer</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="BannerPresentacionGitHub">
+  <img width="500" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="BannerPresentacionGitHub">
 </p>
 
 <p align="center">DEVELOPMENT TECHNOLOGIES</p>
