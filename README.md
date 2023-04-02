@@ -58,7 +58,7 @@
     </td>
     <td align="center">
       <img width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"><br>
-      Git
+      Git 
     </td>
   </tr>
   <tr>
