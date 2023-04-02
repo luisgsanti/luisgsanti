@@ -16,8 +16,6 @@
       <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 2"><br>
       Nombre de la imagen 2
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 3"><br>
       Nombre de la imagen 3
@@ -36,8 +34,6 @@
       <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 6"><br>
       Nombre de la imagen 6
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 7"><br>
       Nombre de la imagen 7
@@ -56,8 +52,6 @@
       <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 10"><br>
       Nombre de la imagen 10
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="50" src="https://user-images.githubusercontent.com/57334196/229371470-9f88cd7b-3b31-4c17-843a-74f8b7cd06a7.gif" alt="Descripción de la imagen 11"><br>
       Nombre de la imagen 11
