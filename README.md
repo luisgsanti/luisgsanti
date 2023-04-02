@@ -88,9 +88,6 @@ Web developer with a passion for creating innovative and creative solutions to s
   </ul>
 </p>
 
-
-
-
 <h1><strong>Education</strong></h1>
 <p>
   <strong>Universidad Popular del Cesar</strong><br>
@@ -103,6 +100,14 @@ Web developer with a passion for creating innovative and creative solutions to s
 <p align="center">
   <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
 </p>
+
+<h1><strong>Contact me</strong></h1>
+<p>
+  <strong>Mail: </strong> luisgsanti11@gmail.com
+  <strong>Cel: </strong> (+57) 3015276487
+</p>
+
+
 
 
 
