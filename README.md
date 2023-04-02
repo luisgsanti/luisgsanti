@@ -67,7 +67,23 @@
       XP
     </td>
   </tr>
-</table
+</table>
+
+<h1><strong>Profile</strong></h1>
+<p>
+Web developer with a passion for creating innovative and creative solutions to solve complex problems. With advanced skills in web application development, front-end and back-end frameworks and tools, capable of effectively collaborating in multidisciplinary teams and maintaining high standards of quality in code. Focused on timely delivery of projects and meeting client objectives.
+</p>
+
+<h1><strong>Profile</strong></h1>
+<p>
+Web developer with a passion for creating innovative and creative solutions to solve complex problems. With advanced skills in web application development, front-end and back-end frameworks and tools, capable of effectively collaborating in multidisciplinary teams and maintaining high standards of quality in code. Focused on timely delivery of projects and meeting client objectives.
+</p>
+
+
+
+
+<h1><strong>  </strong></h1>
+<p> </p>
 
 
 
