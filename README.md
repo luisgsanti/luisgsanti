@@ -101,7 +101,7 @@ Web developer with a passion for creating innovative and creative solutions to s
 </p>
 
 <p align="center">
-  <img width="200" src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
+  <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
 </p>
 
 
