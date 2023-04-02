@@ -104,6 +104,7 @@ Web developer with a passion for creating innovative and creative solutions to s
 <h1><strong>Contact me</strong></h1>
 <p>
   <strong>Mail: </strong> luisgsanti11@gmail.com
+  <br>
   <strong>Cel: </strong> (+57) 3015276487
 </p>
 
